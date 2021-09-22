@@ -11,7 +11,7 @@ berada di group ke-berapa, dengan aturan sebagai berikut:
 
 Contoh:
 - `name` = 'daniel', output: 'Masuk group pertama'
-- `name` = 'immelda', output: 'Masuk group kedua'
+- `name` = 'himmelda', output: 'Masuk group kedua'
 - `name` = 'taufik', output: 'Masuk group terakhir'
 - `name` = 'sergei', output: 'Masuk group terakhir'
 
